@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-//template jason bos
 #define ll long long
 #define pb push_back
 #define pass void(0)
